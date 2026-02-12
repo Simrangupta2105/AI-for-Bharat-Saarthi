@@ -1,8 +1,12 @@
-# AgriConnect: AI-Powered Agricultural Market Access Platform
+# AI for Bharat: Saarthi - AgriConnect Platform
 
-## Overview
+## About Saarthi AI
 
-AgriConnect is a comprehensive digital platform designed to empower smallholder farmers in rural India with real-time market information, weather intelligence, and direct buyer connections through accessible, multilingual AI technology.
+Saarthi AI is a multilingual, voice-first assistant that helps underserved communities easily access government schemes, jobs, education, and public services using simple speech on low bandwidth.
+
+## AgriConnect: AI-Powered Agricultural Market Access Platform
+
+AgriConnect is the agricultural implementation of Saarthi AI, specifically designed to empower smallholder farmers in rural India with real-time market information, weather intelligence, and direct buyer connections through accessible, multilingual AI technology.
 
 ## Vision
 
@@ -172,4 +176,4 @@ This project aims to support India's smallholder farming community and contribut
 
 ---
 
-**Built with ❤️ for India's farmers**
+**Built with ❤️ for India's farmers | Part of AI for Bharat Initiative**
